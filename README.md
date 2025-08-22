@@ -10,6 +10,5 @@ Hi, I’m PRATIBHA — passionate about **Data Analytics, Java, and Python**.
 - **Project 2** – Data analysis with Python and Pandas  
 - **Project 3** – Java mini-project  
 
-## How to View My Portfolio
-👉 [Click here to view my website](https://pratibha059.github.io/)
+
 
