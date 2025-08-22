@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f6f9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+.container {
+  background:#fff;
+  padding:20px;
+  border-radius:12px;
+  box-shadow:0 4px 10px rgba(0,0,0,0.1);
+  width:320px;
+  text-align:center;
+}
+input { padding:8px; width:70%; border:1px solid #ddd; border-radius:6px; }
+button { padding:8px; border:none; background:#4CAF50; color:white; border-radius:6px; }
+ul { list-style:none; padding:0; }
+li { background:#f1f1f1; margin:5px 0; padding:8px; border-radius:6px; }
+li.done { text-decoration: line-through; color:gray; }
